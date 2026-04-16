@@ -21,4 +21,4 @@ A simple CRUD application to track workouts including exercises, reps, weights, 
 
 ## Purpose
 Built as a personal fitness tracking project to improve consistency.
-" > README.md
+" > README.mdgit add .
