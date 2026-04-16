@@ -54,4 +54,4 @@ Simple UI that sends input to backend and displays AI-generated README.
 Checklist:
 - API key stored only in backend (.env)
 - AI call only in backend (not frontend)
-- App fully functional end-to-end
+- App fully functional end-to-endCRUD Gym App
