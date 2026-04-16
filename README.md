@@ -55,3 +55,4 @@ Checklist:
 - API key stored only in backend (.env)
 - AI call only in backend (not frontend)
 - App fully functional end-to-endCRUD Gym App
+Gym CRUD App - Personal Project for tracking workouts
