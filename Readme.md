@@ -36,3 +36,22 @@ Monthly total:
 ## Live Deployment
 **Frontend:** https://your-frontend-url  
 **Backend:** https://your-backend-url
+
+thisis my project for assignment 2.13,project engineering track
+
+Problem:
+I struggled to write structured README files for my projects.
+
+Solution:
+This project uses AI to convert raw project descriptions into structured README files.
+
+Backend:
+Express server handles OpenRouter API call.
+
+Frontend:
+Simple UI that sends input to backend and displays AI-generated README.
+
+Checklist:
+- API key stored only in backend (.env)
+- AI call only in backend (not frontend)
+- App fully functional end-to-end
